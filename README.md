@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jinux127
-- 👀 I’m interested in ... JAVA, SPRING FRAMEWORK, Kotiln
-- 🌱 I’m currently learning ... ANDROID, Kotiln
+- 👀 I’m interested in ... javascript
 
 
 
