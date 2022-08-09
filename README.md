@@ -45,4 +45,4 @@
 
 -->
 ---
-<p>👀 I’m interested in JavaScript</p>
+<p>👀 I’m interested in JavaScript, React Query</p>
