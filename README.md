@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I’m @jinux127 </h1>
 
-<h2> [My playground](jinux-playground.herokuapp.com/) </h2>
+<h2 align="center"> <a href="jinux-playground.herokuapp.com/">My playground</a></h2>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
