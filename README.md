@@ -1,6 +1,8 @@
 
 <h1 align="center">👋 Hi, I’m @jinux127 </h1>
 
+<h2> [My playground](jinux-playground.herokuapp.com/) </h2>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I use the most </p>
@@ -45,4 +47,4 @@
 
 -->
 ---
-<p>👀 I’m interested in JavaScript, React Query</p>
+<p>👀 I’m interested in JavaScript</p>
